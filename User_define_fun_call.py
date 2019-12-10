@@ -1,0 +1,10 @@
+print("User define function Call")
+import User_define_function
+User_define_function.u_def()
+User_define_function.p_def(23)
+ret=User_define_function.r_def(34)
+print(ret)
+ret=User_define_function.accept_multi_def(7,5)
+print(ret)
+User_define_function.a_c_def()
+User_define_function.O_def()
